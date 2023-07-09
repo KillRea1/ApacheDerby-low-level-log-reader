@@ -1,8 +1,8 @@
 # Apache Derby low-level log viewer
-This app is a fork of this issue: https://issues.apache.org/jira/browse/DERBY-5195
-This fork allows you to view the logs of all versions, not just up to 10.10, it is also possible to view the broken log file
+This app is a fork of this issue: https://issues.apache.org/jira/browse/DERBY-5195  
+This fork allows you to view the logs of all versions, not just up to 10.10, it is also possible to view the broken log file.  
 ## Application assembly
-Download the required libraries
+Download the required libraries:
 ```
 git clone https://github.com/KillRea1/derby_low-level_log_reader.git /opt/derby_low-level_log_reader
 cd /opt/derby_low-level_log_reader
